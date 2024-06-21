@@ -11,15 +11,12 @@ After cloning the repo into a folder, use the following command to install modul
 ```
 npm install
 ```
-
+### Running the tests
 The tests in this project are broken up in the following hierarchy,
 
-|
--- JSONPlaceholder
-   |
-   -- Post_Resource
-   |
-   -- User_Resource
+* JSONPlaceholder
+  - Post_Resource
+  - User_Resource
 
 To run tests for all of JSONPlaceholder there are two options,
 
