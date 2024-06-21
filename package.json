@@ -1,0 +1,20 @@
+{
+  "name": "playwrightapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "npx eslint ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.5.0",
+    "@playwright/test": "^1.44.1",
+    "@stylistic/eslint-plugin": "^2.2.2",
+    "@types/node": "^20.14.6",
+    "eslint": "^9.5.0",
+    "globals": "^15.6.0"
+  }
+}
