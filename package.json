@@ -15,6 +15,7 @@
     "@stylistic/eslint-plugin": "^2.2.2",
     "@types/node": "^20.14.6",
     "eslint": "^9.5.0",
-    "globals": "^15.6.0"
+    "globals": "^15.6.0",
+    "playwright": "^1.44.1"
   }
 }
